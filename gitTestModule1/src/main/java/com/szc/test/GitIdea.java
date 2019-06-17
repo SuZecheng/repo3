@@ -8,6 +8,8 @@ public class GitIdea {
 
         System.out.println("idea上的git");
         System.out.println("做个修改");
+
+        System.out.println("dev添加的新功能");
     }
 
 }
