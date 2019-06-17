@@ -4,6 +4,7 @@ public class GitIdea {
 
     public static void main(String[] args) {
         System.out.println("idea上的git");
+        System.out.println("做个修改");
     }
 
 }
